@@ -9,6 +9,8 @@ class MyApp extends StatelessWidget {
 
   // This widget is the root of your application.
   // This is first comment in master branch (Before created second branch)
+  // Comment in second branch
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
